@@ -1,0 +1,13 @@
+AllDicomFiles/
+CT/
+CT_data/
+DicomRetrieve.db
+faiss_demo.py
+LumbarDisc.db
+LumbarDisc.index
+model_resnet34.pth
+preprocess.ipynb
+Server.zip
+test.zip
+.idea/
+__pycache__/
